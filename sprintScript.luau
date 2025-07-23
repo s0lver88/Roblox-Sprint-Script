@@ -1,4 +1,4 @@
---VARIABLES
+--VARIABLES--
 local tweenService = game:GetService("TweenService")
 local userInputService = game:GetService("UserInputService")
 local player = game.Players.LocalPlayer
